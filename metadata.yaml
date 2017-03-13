@@ -1,6 +1,9 @@
 _repo: The-Champdoce-Mystery_2736
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Secret des Champdoce. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gaboriau, Emile
@@ -13,6 +16,8 @@ creator:
     - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
     - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
 description: 'Sequel to: Caught in the Net, #2451.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2736#The-Champdoce-Mystery
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2006-03-28'
 gutenberg_type: Text
